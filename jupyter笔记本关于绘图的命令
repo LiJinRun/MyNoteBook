@@ -1,0 +1,5 @@
+在notebook中使用plt绘图共有三种模式：
+
+%matplotlib inline：这是默认的模式，输出的图片是静态的
+%matplotlib auto：在这个模式下会弹出一个单独 的绘图窗口，和在pycharm中一样
+%matplotlib notebook：在这个模式下会在notebook中产生一个绘图窗口，能够对图片进行放大缩小等操作。

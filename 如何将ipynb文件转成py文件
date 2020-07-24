@@ -1,0 +1,2 @@
+终端输入jupyter nbconvert --to script xxx.ipynb将xxx.ipynb转成xxx.py
+终端输入jupyter nbconvert --to script *.ipynb将所有.ipynb转成.py文件
